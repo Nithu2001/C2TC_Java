@@ -1,7 +1,7 @@
 package xyzpackage;
 
 public class Addition {
-public int addtwonumbers(int a,int b) 
+ int addtwonumbers(int a,int b) 
 {
 	return a+b;
 }
