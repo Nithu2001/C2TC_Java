@@ -9,7 +9,7 @@ System.out.println("ENTER THE INTEGER ");
 boolean e =reader.hasNextInt();
 System.out.println("YOU ENTER THE INTEGER "+e);
 System.out.println("ENTER THE FLOAT ");
-boolean m =reader.hasNextFloat();
+boolean m =reader.hasNextInt();
 System.out.println("YOU ENTER THE FLOAT "+m);
 	}
 
